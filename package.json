@@ -1,0 +1,27 @@
+{
+  "name": "amazing-fortune-teller",
+  "version": "1.0.0",
+  "description": "A fortune telling JavaScript based API",
+  "main": "main.js",
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernando-olv/amazing-fortune-teller.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "API"
+  ],
+  "author": "Fernando-olv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernando-olv/amazing-fortune-teller/issues"
+  },
+  "homepage": "https://github.com/Fernando-olv/amazing-fortune-teller#readme"
+}

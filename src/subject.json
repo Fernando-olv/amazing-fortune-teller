@@ -1,2 +1,3 @@
-[{"subject": "You", "Verb":"are"},{"subject": "A close friend", "Verb":"is"}, 
-{"subject": "A distant cousin", "Verb":"is"}]
+[{"subject": "You", "verb":"are"},
+{"subject": "A close friend", "verb":"is"}, 
+{"subject": "A distant cousin", "verb":"is"}]
