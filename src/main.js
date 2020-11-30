@@ -12,7 +12,7 @@ return objectArray[index]
 const randomFortuneVerbFiltered = (objectSubject) =>{
 
 const filteredFortune = fortune.filter((position) => (objectSubject.verb === position.verb || true === position.verb))
- console.log(objectSubject.verb, Object.values(filteredFortune))
+
 return randomArrayPosition(filteredFortune)
 
 }

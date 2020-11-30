@@ -1,5 +1,10 @@
-[{"fortune": "will have to work a lot to become wealthy", "verb":true},
-{"fortune": "should keep in mind 'the real danger comes from the not expected' ", "verb":true}, 
+[
+{"fortune": "will have to work a lot to become wealthy.", "verb":true},
+{"fortune": "should keep in mind 'the real danger comes from the not expected.' ", "verb":true}, 
 {"fortune": "is thinking about you, unfortunately I don't know what, your CoffeeScript is blurry. ", "verb":"is"},
-{"fortune": "are going to encounter many difficulties along the way, but the reward is worth the effort.", "verb":"are"}
+{"fortune": "are going to encounter many difficulties along the way, but the reward is worth the effort.", "verb":"are"},
+{"fortune": "will fall in love soon!", "verb":true},
+{"fortune": "will steep on dog poop... And is a nasty one!", "verb":true},
+{"fortune": "will feel stressed soon and should try to remain calm, it will pay out in the end.", "verb":true},
+{"fortune": "should be more communicative, it's good for social and business!", "verb":true}
 ]

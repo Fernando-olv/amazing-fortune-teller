@@ -1,3 +1,7 @@
 [{"subject": "You", "verb":"are"},
 {"subject": "A close friend", "verb":"is"}, 
-{"subject": "A distant cousin", "verb":"is"}]
+{"subject": "A distant cousin", "verb":"is"},
+{"subject": "That person who owes you money", "verb":"is"},
+{"subject": "The person you were thinking when you decided to use this API", "verb":"is"},
+{"subject": "Your friends", "verb":"are"},
+{"subject": "That cute girl from work", "verb":"is"}]
