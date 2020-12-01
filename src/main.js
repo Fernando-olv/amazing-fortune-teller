@@ -1,3 +1,4 @@
+const port = 1337
 const fortune = require('./fortune.json')
 const subject = require('./subject.json')
 const express = require('express')
@@ -28,4 +29,9 @@ return `${objectSubject.subject} ${objectFortune.fortune}`
 
 }
 
-console.log(generateFortune())
+app.get('/fortune', (req,res,next) =>{
+    res.send(generateFortune())
+})
+
+app.listen(port, ()=> console.log("Server running on port:",port));
+
