@@ -1,4 +1,4 @@
-const port = 1337
+const port = 8000
 const fortune = require('./fortune.json')
 const subject = require('./subject.json')
 const express = require('express')
