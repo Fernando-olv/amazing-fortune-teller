@@ -1,6 +1,6 @@
 const port = 8000
-const fortune = require('./fortune.json')
-const subject = require('./subject.json')
+const fortune = require('../resources/fortune.json')
+const subject = require('../resources/subject.json')
 const express = require('express')
 const app = express()
 
@@ -33,5 +33,5 @@ app.get('/fortune', (req,res,next) =>{
     res.send(generateFortune())
 })
 
-app.listen(port, ()=> console.log("Server running on port:",port));
+app.listen(port, ()=> console.log("Server running on address:",port));
 
